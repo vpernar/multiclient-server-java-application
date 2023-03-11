@@ -1,7 +1,5 @@
 # multiclient-server-java-application
 
-RAF - Web Programmming - Project 2
-
 MultiClient-Server Java Sockets chat application
 
 Simple group chat application that works through sockets in java, and depends on threads.
